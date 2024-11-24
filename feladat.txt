@@ -1,0 +1,16 @@
+Milyen gyakori a szóismétlés
+Rendelkezzünk reklám kulcsszó adatbázissal előzetesen, akkor hány ilyen kulcsszó található meg egy szövegben, ezeknek eloszlása az összes szóhoz
+E-mail tartalmának hossza
+Több címzett is van-e
+Tárgy tartalma
+Van-e html tartalom a levélben
+Szófajgyakoriság, mondatelemzés, helyesírás
+Linkek száma a levélben
+Speciális karakterek a levélben
+Formázva van-e a levél, mennyiszer
+Van-e melléklet?
+Vegyél fel emellé még 3 saját magad által kitalált paramétert, legyen rá indoklásod!
+Hozz létre egy 30 db bemeneti levélből álló tanítóadatbázist, alkalmazz valamilyen simítást
+Értékeld ki 10 tesztlevélen Naiv Bayes algoritmussal a „feltanított” modelled
+Különítsd el a függvényeket legjobb tudásod szerint és legyen tanítás/kiértékelésre megfelelően struktúrálva a programod.
+Számíts korrelációt az összes paraméter oszlopára
