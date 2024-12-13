@@ -12,6 +12,9 @@ from scipy.stats import pearsonr
 SEED = 1
 np.random.seed(SEED)
 
+#Átalakítás ellenőrizzen minden levelet hozzon létre minden levélhez egy összeslevél.count-1 listát minden levelet számozzon meg és mindet ossza be a legjobbhoz
+
+
 # 2. KULCSSZAVAK INICIALIZÁLÁSA
 KULCSSZAVAK = [
     'akció', 'ingyen', 'kedvezmény', 'ajándék', 'limitált', 'exkluzív', 
